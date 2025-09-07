@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+*.xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
